@@ -14,7 +14,6 @@ jobs:
     env:
       PLATFORMS: linux/amd64,linux/arm64
       REGISTRY_GH: ghcr.io
-      REGISTRY_QUAY: quay.io
 
     runs-on: ubuntu-latest
 
@@ -41,7 +40,6 @@ jobs:
         with:
           images: |
             ${{ env.REGISTRY_GH }}/${{ github.repository }}
-            ${{ env.REGISTRY_QUAY }}/${{ github.repository }}
           tags: |
             type=schedule,pattern=nightly,enable=true,priority=1000
             type=ref,event=branch,enable=true,priority=600
