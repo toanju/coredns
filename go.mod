@@ -3,7 +3,7 @@ module github.com/toanju/coredns
 go 1.22.3
 
 require (
-	github.com/coredns/coredns v1.11.2
+	github.com/coredns/coredns v1.11.3
 	github.com/relekang/coredns-blocklist v1.11.0
 )
 
