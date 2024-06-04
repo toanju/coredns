@@ -1,4 +1,4 @@
-FROM golang:1.22.3 as build
+FROM golang:1.22.4 as build
 
 RUN export DEBCONF_NONINTERACTIVE_SEEN=true \
            DEBIAN_FRONTEND=noninteractive \
