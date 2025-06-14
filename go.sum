@@ -535,6 +535,8 @@ github.com/relekang/coredns-blocklist v1.12.0 h1:x7/F3X9EIOPE1fSjY17oV4C8e1Vfhn8
 github.com/relekang/coredns-blocklist v1.12.0/go.mod h1:9xFUy4crJcbYprfke9+0d8tEE7oSIsuNJKWd6UuysaQ=
 github.com/relekang/coredns-blocklist v1.12.1 h1:oPL3r/9j/yBShG3JQPtDWCW/VLUaM3RpUC683QA1Tdw=
 github.com/relekang/coredns-blocklist v1.12.1/go.mod h1:xWCFOlUFCI7Vqb/PqOopROQ6FShDw96qgD4H2MJpnmU=
+github.com/relekang/coredns-blocklist v1.13.0 h1:gy92CSUnwQqSus1L8CckPicQkb1u/4qRMDbIV8w22oI=
+github.com/relekang/coredns-blocklist v1.13.0/go.mod h1:j0fbsH1QqVTg4tLnOmujWDXBgPSUXX3RUmLIbYWjns8=
 github.com/ryanuber/columnize v2.1.0+incompatible/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
 github.com/ryanuber/go-glob v1.0.0 h1:iQh3xXAumdQ+4Ufa5b25cRpC5TYKlno6hsv6Cb3pkBk=
 github.com/ryanuber/go-glob v1.0.0/go.mod h1:807d1WSdnB0XRJzKNil9Om6lcp/3a0v4qIHxIXzX/Yc=
