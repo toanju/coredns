@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.4](https://github.com/toanju/coredns/compare/v0.3.3...v0.3.4) (2025-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/coredns/coredns to v1.12.2 [security] ([#69](https://github.com/toanju/coredns/issues/69)) ([0639ae9](https://github.com/toanju/coredns/commit/0639ae9962f2f5cbfa93a4cd3f2ac4ed9fe04017))
+* **deps:** update module github.com/relekang/coredns-blocklist to v1.13.0 ([#77](https://github.com/toanju/coredns/issues/77)) ([52349a3](https://github.com/toanju/coredns/commit/52349a3f4011584063a86be37c37469c287dd958))
+
 ## [0.3.3](https://github.com/toanju/coredns/compare/v0.3.2...v0.3.3) (2024-12-20)
 
 
