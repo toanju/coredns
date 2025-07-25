@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0](https://github.com/toanju/coredns/compare/v0.3.4...v0.4.0) (2025-07-25)
+
+
+### Features
+
+* switch to fork for testing ([cb1433b](https://github.com/toanju/coredns/commit/cb1433b19cf2f9140279d27187570f1ec322335c))
+* switch to fork for testing ([#85](https://github.com/toanju/coredns/issues/85)) ([a9f3d82](https://github.com/toanju/coredns/commit/a9f3d829cef6946ef79d1e728db473deced4302a))
+
+
+### Bug Fixes
+
+* fixup Dockerfile syntax and indentation ([6ff3634](https://github.com/toanju/coredns/commit/6ff363400dadbbc10a8448e6fed84fb95731633a))
+
 ## [0.3.4](https://github.com/toanju/coredns/compare/v0.3.3...v0.3.4) (2025-06-15)
 
 
