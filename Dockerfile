@@ -1,13 +1,13 @@
-FROM golang:1.24.5@sha256:ef5b4be1f94b36c90385abd9b6b4f201723ae28e71acacb76d00687333c17282 as build
+FROM golang:1.24.5@sha256:ef5b4be1f94b36c90385abd9b6b4f201723ae28e71acacb76d00687333c17282 AS build
 
 RUN export DEBCONF_NONINTERACTIVE_SEEN=true \
-           DEBIAN_FRONTEND=noninteractive \
-           DEBIAN_PRIORITY=critical \
-           TERM=linux ; \
-    apt-get -qq update ; \
-    apt-get -yyqq upgrade ; \
-    apt-get -yyqq install ca-certificates libcap2-bin; \
-    apt-get clean
+  DEBIAN_FRONTEND=noninteractive \
+  DEBIAN_PRIORITY=critical \
+  TERM=linux ; \
+  apt-get -qq update ; \
+  apt-get -yq upgrade ; \
+  apt-get -yq install ca-certificates libcap2-bin; \
+  apt-get clean
 
 WORKDIR /build
 COPY go.mod go.sum ./
