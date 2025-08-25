@@ -1,4 +1,4 @@
-FROM golang:1.25.0@sha256:10a15b9d650c559eff6cb070f3177f1e2fc067cd7412e5ca97c9cb8167a924b7 AS build
+FROM golang:1.25.0@sha256:5502b0e56fca23feba76dbc5387ba59c593c02ccc2f0f7355871ea9a0852cebe AS build
 
 RUN export DEBCONF_NONINTERACTIVE_SEEN=true \
   DEBIAN_FRONTEND=noninteractive \
