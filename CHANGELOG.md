@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.1](https://github.com/toanju/coredns/compare/v0.4.0...v0.4.1) (2025-08-26)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to cdf4daa ([#91](https://github.com/toanju/coredns/issues/91)) ([23eae0a](https://github.com/toanju/coredns/commit/23eae0a506e4cf8745fc48efd858b38c38a569a9))
+* **deps:** update module github.com/coredns/coredns to v1.12.3 ([#92](https://github.com/toanju/coredns/issues/92)) ([dfa5ec2](https://github.com/toanju/coredns/commit/dfa5ec222a5abe41b296bd27d8e03c0dbdf0db2b))
+
 ## [0.4.0](https://github.com/toanju/coredns/compare/v0.3.4...v0.4.0) (2025-07-25)
 
 
