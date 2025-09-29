@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.4.3](https://github.com/toanju/coredns/compare/v0.4.2...v0.4.3) (2025-09-29)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to e8a4044 ([#108](https://github.com/toanju/coredns/issues/108)) ([8f6ad93](https://github.com/toanju/coredns/commit/8f6ad93589d91f250fce521d071f92b12ba9c937))
+* **deps:** update golang:1.25.1 docker digest to 8305f5f ([#113](https://github.com/toanju/coredns/issues/113)) ([94f998d](https://github.com/toanju/coredns/commit/94f998dd7dd8a39164c6647557fa5f6cb0ecf54a))
+* **deps:** update golang:1.25.1 docker digest to d6bdb04 ([#109](https://github.com/toanju/coredns/issues/109)) ([4893864](https://github.com/toanju/coredns/commit/48938649a697815834c451f68f4e98c699a4381e))
+* **deps:** update module github.com/coredns/coredns to v1.12.4 ([#110](https://github.com/toanju/coredns/issues/110)) ([3abbc14](https://github.com/toanju/coredns/commit/3abbc14d1b38eccd6345a91eb646118eeb4f929d))
+
 ## [0.4.2](https://github.com/toanju/coredns/compare/v0.4.1...v0.4.2) (2025-08-26)
 
 
