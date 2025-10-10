@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.4](https://github.com/toanju/coredns/compare/v0.4.3...v0.4.4) (2025-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update golang:1.25.2 docker digest to 1c91b4f ([#121](https://github.com/toanju/coredns/issues/121)) ([ed408bd](https://github.com/toanju/coredns/commit/ed408bd82ed5a83c040410ed02213a7662b5513e))
+* **deps:** update module github.com/coredns/coredns to v1.13.0 ([#117](https://github.com/toanju/coredns/issues/117)) ([75af3a7](https://github.com/toanju/coredns/commit/75af3a7d174323e92920de2c6b151334c2b91ca8))
+* **deps:** update module github.com/coredns/coredns to v1.13.1 ([#122](https://github.com/toanju/coredns/issues/122)) ([fbd3329](https://github.com/toanju/coredns/commit/fbd33295ef5475d843d29eb7c6196066353baf2b))
+
 ## [0.4.3](https://github.com/toanju/coredns/compare/v0.4.2...v0.4.3) (2025-09-29)
 
 
