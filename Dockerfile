@@ -17,7 +17,7 @@ COPY main.go .
 RUN CGO_ENABLED=0 go build -v -o /coredns
 RUN setcap cap_net_bind_service=+ep /coredns
 
-FROM gcr.io/distroless/static-debian12:nonroot@sha256:e8a4044e0b4ae4257efa45fc026c0bc30ad320d43bd4c1a7d5271bd241e386d0
+FROM gcr.io/distroless/static-debian12:nonroot@sha256:2b7c93f6d6648c11f0e80a48558c8f77885eb0445213b8e69a6a0d7c89fc6ae4
 COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
 COPY --from=build /coredns /coredns
 USER nonroot:nonroot
