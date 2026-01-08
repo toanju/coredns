@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.11](https://github.com/toanju/coredns/compare/v0.4.10...v0.4.11) (2026-01-08)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/coredns/coredns to v1.14.0 ([#156](https://github.com/toanju/coredns/issues/156)) ([1f6de6e](https://github.com/toanju/coredns/commit/1f6de6e73e4097f6b1f8507d1b39ab7a38d96330))
+
 ## [0.4.10](https://github.com/toanju/coredns/compare/v0.4.9...v0.4.10) (2026-01-04)
 
 
