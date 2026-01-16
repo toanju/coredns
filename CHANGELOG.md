@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.4.12](https://github.com/toanju/coredns/compare/v0.4.11...v0.4.12) (2026-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to cba10d7 ([#161](https://github.com/toanju/coredns/issues/161)) ([d700fd4](https://github.com/toanju/coredns/commit/d700fd41f7ba8303f6d0edc021557fc7333e597d))
+* **deps:** update golang:1.25.5 docker digest to 8bbd140 ([#162](https://github.com/toanju/coredns/issues/162)) ([5830008](https://github.com/toanju/coredns/commit/5830008be4abcf316303a3287a24a3325fc5d9a1))
+* **deps:** update module github.com/coredns/coredns to v1.14.1 ([#165](https://github.com/toanju/coredns/issues/165)) ([e82484c](https://github.com/toanju/coredns/commit/e82484c0d7bc107ecc465aefbde6541663a0a1bb))
+* **deps:** update module github.com/relekang/coredns-blocklist to v1.13.2 ([#158](https://github.com/toanju/coredns/issues/158)) ([431b687](https://github.com/toanju/coredns/commit/431b6872d1949c1c75369b1f787a648826d78cc3))
+* **deps:** update module github.com/relekang/coredns-blocklist to v1.13.3 ([#160](https://github.com/toanju/coredns/issues/160)) ([1a71426](https://github.com/toanju/coredns/commit/1a71426ec96054840e4b74d1a93619918d59aa51))
+
 ## [0.4.11](https://github.com/toanju/coredns/compare/v0.4.10...v0.4.11) (2026-01-08)
 
 
