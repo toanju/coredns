@@ -2,7 +2,7 @@ module github.com/toanju/coredns
 
 go 1.24.0
 
-toolchain go1.25.7
+toolchain go1.26.0
 
 require (
 	github.com/coredns/coredns v1.14.1
