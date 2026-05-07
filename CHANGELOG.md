@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.8](https://github.com/toanju/coredns/compare/v0.5.7...v0.5.8) (2026-05-07)
+
+
+### Bug Fixes
+
+* **deps:** update golang docker tag to v1.26.3 ([#215](https://github.com/toanju/coredns/issues/215)) ([0c00ad3](https://github.com/toanju/coredns/commit/0c00ad3024bdf78aa970b731655d01bc3050a05c))
+
 ## [0.5.7](https://github.com/toanju/coredns/compare/v0.5.6...v0.5.7) (2026-04-29)
 
 
