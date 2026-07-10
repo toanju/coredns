@@ -5,7 +5,7 @@ go 1.25.0
 toolchain go1.26.5
 
 require (
-	github.com/coredns/coredns v1.14.5
+	github.com/coredns/coredns v1.14.6
 	github.com/relekang/coredns-blocklist v1.13.3
 )
 
