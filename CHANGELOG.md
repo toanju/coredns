@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.5.20](https://github.com/toanju/coredns/compare/v0.5.19...v0.5.20) (2026-07-10)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to b7bb25d ([#269](https://github.com/toanju/coredns/issues/269)) ([697dc5c](https://github.com/toanju/coredns/commit/697dc5c77913f9bd8457718cf5e71403f1376e9d))
+* **deps:** update golang docker tag to v1.26.5 ([#267](https://github.com/toanju/coredns/issues/267)) ([6f5de1e](https://github.com/toanju/coredns/commit/6f5de1ee0807c8d87c0f5daf4cf3162cf7fb7ba1))
+* **deps:** update golang:1.26.5 docker digest to 079e598 ([#270](https://github.com/toanju/coredns/issues/270)) ([6ccc935](https://github.com/toanju/coredns/commit/6ccc93549b2025a2fdedc045d44708e75bd54e90))
+* **deps:** update module github.com/coredns/coredns to v1.14.5 ([#271](https://github.com/toanju/coredns/issues/271)) ([e80fb3b](https://github.com/toanju/coredns/commit/e80fb3be585df5bd3a1568782dca5e392f16c347))
+* **deps:** update module github.com/coredns/coredns to v1.14.6 ([#272](https://github.com/toanju/coredns/issues/272)) ([b0460ce](https://github.com/toanju/coredns/commit/b0460cec4d6f58fb48fe66f9bc8b2f45516549e3))
+
 ## [0.5.19](https://github.com/toanju/coredns/compare/v0.5.18...v0.5.19) (2026-07-04)
 
 
