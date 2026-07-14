@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.21](https://github.com/toanju/coredns/compare/v0.5.20...v0.5.21) (2026-07-14)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to aef9602 ([#276](https://github.com/toanju/coredns/issues/276)) ([5b021d4](https://github.com/toanju/coredns/commit/5b021d408bf96be0b4d900b3bdff6fa09027da45))
+* **deps:** update golang:1.26.5 docker digest to 0f70d7d ([#273](https://github.com/toanju/coredns/issues/273)) ([cf1e37b](https://github.com/toanju/coredns/commit/cf1e37b053320236769b0d6be8f3ee5472bb8860))
+* **deps:** update golang:1.26.5 docker digest to 983a082 ([#275](https://github.com/toanju/coredns/issues/275)) ([9af7a2c](https://github.com/toanju/coredns/commit/9af7a2cf18f94e8e8c6827800adbc49309dfda90))
+
 ## [0.5.20](https://github.com/toanju/coredns/compare/v0.5.19...v0.5.20) (2026-07-10)
 
 
