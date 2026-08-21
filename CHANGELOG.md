@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.6.0](https://github.com/toanju/coredns/compare/v0.5.29...v0.6.0) (2026-08-19)
+
+
+### Features
+
+* **deps:** update golang docker tag to v1.27.0 ([#308](https://github.com/toanju/coredns/issues/308)) ([ab8dfd6](https://github.com/toanju/coredns/commit/ab8dfd68442bdf145effd0ab46dea37dce2c8914))
+
+
+### Bug Fixes
+
+* **deps:** update golang docker tag to v1.26.7 ([#307](https://github.com/toanju/coredns/issues/307)) ([491f476](https://github.com/toanju/coredns/commit/491f476d2fbb9fda06600fed2d20b4573732507c))
+* **deps:** update golang:1.27.0 docker digest to 65b6f28 ([#309](https://github.com/toanju/coredns/issues/309)) ([88c2b9f](https://github.com/toanju/coredns/commit/88c2b9f7d2183dbf15d4503e2a1810ffe02fc2f9))
+* **deps:** update module github.com/coredns/coredns to v1.14.7 ([#302](https://github.com/toanju/coredns/issues/302)) ([0cb6026](https://github.com/toanju/coredns/commit/0cb60262219e785b351d95765cf4801e16f688a3))
+
 ## [0.5.29](https://github.com/toanju/coredns/compare/v0.5.28...v0.5.29) (2026-08-16)
 
 
