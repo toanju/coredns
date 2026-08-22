@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/toanju/coredns/compare/v0.6.0...v0.6.1) (2026-08-21)
+
+
+### Bug Fixes
+
+* **deps:** update gcr.io/distroless/static-debian12:nonroot docker digest to afa5c87 ([#310](https://github.com/toanju/coredns/issues/310)) ([f3e1317](https://github.com/toanju/coredns/commit/f3e131752a31cd85acab82a5f7094a34d1b862d6))
+
 ## [0.6.0](https://github.com/toanju/coredns/compare/v0.5.29...v0.6.0) (2026-08-19)
 
 
