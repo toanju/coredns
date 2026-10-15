@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.9](https://github.com/toanju/coredns/compare/v0.6.8...v0.6.9) (2026-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update golang:1.27.2 docker digest to 007a316 ([#341](https://github.com/toanju/coredns/issues/341)) ([2c669d3](https://github.com/toanju/coredns/commit/2c669d34fde16bdb74b3fcd10962ccab909ab4d1))
+* **deps:** update golang:1.27.2 docker digest to 8201530 ([#344](https://github.com/toanju/coredns/issues/344)) ([7062781](https://github.com/toanju/coredns/commit/70627812f5ace509f51c7531e0c40fcd3a3c360a))
+* **deps:** update module github.com/relekang/coredns-blocklist to v1.13.4 ([#343](https://github.com/toanju/coredns/issues/343)) ([7565d0c](https://github.com/toanju/coredns/commit/7565d0cf03b61f3e68afd61bab543c4a025a834c))
+* **deps:** update module github.com/relekang/coredns-blocklist to v1.13.5 ([#345](https://github.com/toanju/coredns/issues/345)) ([251192c](https://github.com/toanju/coredns/commit/251192c68333c3c2eac2e88a18a526eae4afc3dc))
+
 ## [0.6.8](https://github.com/toanju/coredns/compare/v0.6.7...v0.6.8) (2026-10-08)
 
 
