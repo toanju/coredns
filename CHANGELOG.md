@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.12](https://github.com/toanju/coredns/compare/v0.6.11...v0.6.12) (2026-11-07)
+
+
+### Bug Fixes
+
+* **deps:** update golang:1.27.3 docker digest to 0c050fe ([#365](https://github.com/toanju/coredns/issues/365)) ([074ae03](https://github.com/toanju/coredns/commit/074ae03d5645e7e777b9d090984981cc5ce1c939))
+* **deps:** update golang:1.27.3 docker digest to e519d3b ([#367](https://github.com/toanju/coredns/issues/367)) ([9333c83](https://github.com/toanju/coredns/commit/9333c838d08a5b6081a39b5f16107c3d3c28253a))
+
 ## [0.6.11](https://github.com/toanju/coredns/compare/v0.6.10...v0.6.11) (2026-10-29)
 
 
